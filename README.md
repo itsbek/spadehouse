@@ -13,14 +13,14 @@
 
 # Tech-stack
 
-## Frontend:
+### Frontend:
 - NextJS / ReactJS
 - Redux Toolkit
 - simple-peer (WebRTC)
 - Socket.IO
 - Axios
 
-## Backend:
+### Backend:
 - NodeJS
 - Express
 - Sequelize
