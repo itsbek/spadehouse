@@ -10,3 +10,20 @@
 
 1. `npm run server` - Starts the Express server
 2. `npm run dev` - starts NextJS app
+
+# Tech-stack
+
+##Frontend:
+- NextJS / ReactJS
+- Redux Toolkit
+- simple-peer (WebRTC)
+- Socket.IO
+- Axios
+
+##Backend:
+- NodeJS
+- Express
+- Sequelize
+- Passport
+- JWT
+- Multer
