@@ -14,7 +14,7 @@
 # Tech-stack
 
 ### Frontend:
-- NextJS / ReactJS
+- NextJS / ReactJS - TypeScript
 - Redux Toolkit
 - simple-peer (WebRTC)
 - Socket.IO
